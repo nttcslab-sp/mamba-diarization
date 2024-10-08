@@ -1,0 +1,36 @@
+Databases:
+  RAMC: MDT2021S003/WAV/{uri}.wav
+
+Protocols:
+  RAMC:
+    SpeakerDiarization:
+      # Original RAMC split
+      Full:
+        scope: file
+        train:
+          uri: lists/train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem
+        development:
+          uri: lists/dev.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem
+        test:
+          uri: lists/test.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem
+      
+      Custom_dev2h:
+        scope: file
+        train:
+          uri: lists/train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem
+        development:
+          uri: lists/dev2h/2h.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem
+        test:
+          uri: lists/test.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uem/all.uem

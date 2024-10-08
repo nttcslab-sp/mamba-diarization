@@ -1,0 +1,33 @@
+
+
+Protocols:
+  X:
+    SpeakerDiarization:
+      DataMamba8:
+        train:
+          Notsofar1.SpeakerDiarization.FullTrain_Dev1v: [train]
+          MSDWILD.SpeakerDiarization.Custom2: [train]
+          VoxConverse.SpeakerDiarization.Custom1: [train]
+          AliMeeting.SpeakerDiarization.Far: [train]
+          AMI-SDM.SpeakerDiarization.only_words: [train]
+          Simu8_train.SpeakerDiarization.Full: [train]
+          RAMC.SpeakerDiarization.Full: [train]
+          AISHELL4.SpeakerDiarization.Custom: [train]
+        development:
+          Notsofar1.SpeakerDiarization.FullTrain_Dev1v: [development]
+          MSDWILD.SpeakerDiarization.Custom2: [development]
+          VoxConverse.SpeakerDiarization.Custom1: [development]
+          AliMeeting.SpeakerDiarization.Far: [development]
+          AMI-SDM.SpeakerDiarization.dev_2h: [development]
+          Simu8_dev.SpeakerDiarization.2h: [development]
+          RAMC.SpeakerDiarization.Full: [development]
+          AISHELL4.SpeakerDiarization.Custom: [development]
+        test:
+          # Notsofar1.SpeakerDiarization.FullTrain_Dev1v: [test]  # was not available for initial experiments
+          MSDWILD.SpeakerDiarization.Custom2: [test]
+          VoxConverse.SpeakerDiarization.Custom1: [test]
+          AliMeeting.SpeakerDiarization.Far: [test]
+          AMI-SDM.SpeakerDiarization.only_words: [test]
+          Simu8_test.SpeakerDiarization.Full: [test]
+          RAMC.SpeakerDiarization.Full: [test]
+          AISHELL4.SpeakerDiarization.Custom: [test]

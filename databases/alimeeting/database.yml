@@ -1,0 +1,25 @@
+Databases:
+  AliMeeting:
+  - Train_Ali_far/audio_dir/{uri}.wav
+  - Eval_Ali/Eval_Ali_far/audio_dir/{uri}.wav
+  - Eval_Ali/Eval_Ali_near/audio_dir/{uri}.wav
+  - Test_Ali/Test_Ali_far/audio_dir/{uri}.wav
+  - Test_Ali/Test_Ali_near/audio_dir/{uri}.wav
+
+Protocols:
+  AliMeeting:
+    SpeakerDiarization:
+      Far:
+        scope: file
+        train:
+          uri: uri/train_far.txt
+          annotation: rttm/Train_Ali_far/{uri}.rttm
+          annotated: uem/train_far.uem
+        development:
+          uri: uri/eval_far.txt
+          annotation: rttm/Eval_Ali/Eval_Ali_far/{uri}.rttm
+          annotated: uem/eval_far.uem
+        test:
+          uri: uri/test_far.txt
+          annotation: rttm/Test_Ali/Test_Ali_far/{uri}.rttm
+          annotated: uem/test_far.uem

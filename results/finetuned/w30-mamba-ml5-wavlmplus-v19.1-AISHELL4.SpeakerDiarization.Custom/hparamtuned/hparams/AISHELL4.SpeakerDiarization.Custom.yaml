@@ -1,0 +1,7 @@
+clustering:
+  method: centroid
+  min_cluster_size: 18
+  threshold: 0.6028688209482005
+segmentation:
+  min_duration_off: 0.0
+  threshold: 0.5

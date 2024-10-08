@@ -1,0 +1,91 @@
+Databases:
+  # tell pyannote.database where to find AMI wav files.
+  # {uri} is a placeholder for the session name (eg. ES2004c).
+  # you might need to update this line to fit your own setup.
+  AMI: /data/rigel1/DB_ORG/AMI/amicorpus/{uri}/audio/{uri}.Mix-Headset.wav
+  AMI-SDM: /data/rigel1/DB_ORG/AMI/amicorpus/{uri}/audio/{uri}.Array1-01.wav
+
+Protocols:
+  AMI-SDM:
+    SpeakerDiarization:
+      only_words:
+        scope: file
+        train:
+            uri: lists/train.meetings.sdm.txt
+            annotation: only_words/rttms/train/{uri}.rttm
+            annotated: uems/train/{uri}.uem
+        development:
+            uri: lists/dev.meetings.txt
+            annotation: only_words/rttms/dev/{uri}.rttm
+            annotated: uems/dev/{uri}.uem
+        test:
+            uri: lists/test.meetings.txt
+            annotation: only_words/rttms/test/{uri}.rttm
+            annotated: uems/test/{uri}.uem
+      dev_2h:
+        scope: file
+        development:
+            uri: lists/custom1/dev.meetings_2h.txt
+            annotation: only_words/rttms/dev/{uri}.rttm
+            annotated: uems/dev/{uri}.uem
+      mini:
+        scope: file
+        train:
+          uri: lists/train.mini.txt
+          annotation: only_words/rttms/train/{uri}.rttm
+          annotated: uems/train/{uri}.uem
+        development:
+          uri: lists/dev.mini.txt
+          annotation: only_words/rttms/dev/{uri}.rttm
+          annotated: uems/dev/{uri}.uem
+        test:
+          uri: lists/test.mini.txt
+          annotation: only_words/rttms/test/{uri}.rttm
+          annotated: uems/test/{uri}.uem
+
+  AMI:
+    SpeakerDiarization:
+      only_words:
+        scope: file
+        train:
+            uri: lists/train.meetings.txt
+            annotation: only_words/rttms/train/{uri}.rttm
+            annotated: uems/train/{uri}.uem
+        development:
+            uri: lists/dev.meetings.txt
+            annotation: only_words/rttms/dev/{uri}.rttm
+            annotated: uems/dev/{uri}.uem
+        test:
+            uri: lists/test.meetings.txt
+            annotation: only_words/rttms/test/{uri}.rttm
+            annotated: uems/test/{uri}.uem
+
+      mini:
+        scope: file
+        train:
+          uri: lists/train.mini.txt
+          annotation: only_words/rttms/train/{uri}.rttm
+          annotated: uems/train/{uri}.uem
+        development:
+          uri: lists/dev.mini.txt
+          annotation: only_words/rttms/dev/{uri}.rttm
+          annotated: uems/dev/{uri}.uem
+        test:
+          uri: lists/test.mini.txt
+          annotation: only_words/rttms/test/{uri}.rttm
+          annotated: uems/test/{uri}.uem
+ 
+      word_and_vocalsounds:
+        scope: file
+        train:
+            uri: lists/train.meetings.txt
+            annotation: word_and_vocalsounds/rttms/train/{uri}.rttm
+            annotated: uems/train/{uri}.uem
+        development:
+            uri: lists/dev.meetings.txt
+            annotation: word_and_vocalsounds/rttms/dev/{uri}.rttm
+            annotated: uems/dev/{uri}.uem
+        test:
+            uri: lists/test.meetings.txt
+            annotation: word_and_vocalsounds/rttms/test/{uri}.rttm
+            annotated: uems/test/{uri}.uem

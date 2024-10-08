@@ -1,0 +1,12 @@
+Requirements:
+  - ami/database.yml
+  - simu8/database.yml
+  - chime8/database.yml
+  - msdwild/database.yml
+  - voxconverse/database.yml
+  - alimeeting/database.yml
+  - ramc/database.yml
+  - aishell4/database.yml
+  - dihard3/database.yml
+  - notsofar/database.yml
+  - database_bonus.yml

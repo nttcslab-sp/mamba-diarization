@@ -1,0 +1,35 @@
+Databases:
+  VoxConverse:
+  - wavs/dev/{uri}.wav
+  - wavs/test/{uri}.wav
+
+Protocols:
+  VoxConverse:
+    SpeakerDiarization:
+      # Original subsets as defined by VoxConverse (only dev and test)
+      Original:
+        scope: file
+        development:
+          uri: uris/dev.txt
+          annotation: rttm/dev/{uri}.rttm
+          annotated: uem/dev/{uri}.uem
+        test:
+          uri: uris/test.txt
+          annotation: rttm/test/{uri}.rttm
+          annotated: uem/test/{uri}.uem
+      
+      # Custom protocol with train=18h, val=2h (splitted from original dev=20h)
+      Custom1:
+        scope: file
+        train:
+          uri: uris/custom1/dev_train.txt
+          annotation: rttm/dev/{uri}.rttm
+          annotated: uem/dev/{uri}.uem
+        development:
+          uri: uris/custom1/dev_val.txt
+          annotation: rttm/dev/{uri}.rttm
+          annotated: uem/dev/{uri}.uem
+        test:
+          uri: uris/test.txt
+          annotation: rttm/test/{uri}.rttm
+          annotated: uem/test/{uri}.uem

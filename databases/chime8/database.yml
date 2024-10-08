@@ -1,0 +1,119 @@
+# Important protocols:
+# - X.SpeakerDiarization.Chime8_train for training
+# - X.SpeakerDiarization.Chime8_dev for evaluation
+
+Databases:
+  Chime8_train: 
+  - wavs/train/chime6/{uri}.wav
+  - wavs/train/dipco/{uri}.wav
+  - wavs/train/mixer6/{uri}.flac
+  - wavs/train/notsofar1/{uri}.wav
+
+  Chime6_dev:
+  - wavs/dev/chime6/{uri}.wav
+  Dipco_dev:
+  - wavs/dev/dipco/{uri}.wav
+  Mixer6_dev:
+  - wavs/dev/mixer6/{uri}.flac
+  Notsofar1_dev:
+  - wavs/dev/notsofar1/{uri}.wav
+
+  Notsofar1:
+  - wavs/train/notsofar1/{uri}.wav
+  - wavs/dev/notsofar1/{uri}.wav
+
+
+Protocols:
+  X:
+    SpeakerDiarization:
+      Chime8_train:
+        train:
+          Chime8_train.SpeakerDiarization.train: [train]
+        development:
+          Chime6_dev.SpeakerDiarization.development: [development]
+          Dipco_dev.SpeakerDiarization.development: [development]
+          Mixer6_dev.SpeakerDiarization.development: [development]
+          Notsofar1_dev.SpeakerDiarization.development: [development]
+      Chime8_dev:
+        development:
+          Chime6_dev.SpeakerDiarization.development: [development]
+          Dipco_dev.SpeakerDiarization.development: [development]
+          Mixer6_dev.SpeakerDiarization.development: [development]
+          Notsofar1_dev.SpeakerDiarization.development: [development]
+        test:
+          Chime6_dev.SpeakerDiarization.development: [development]
+          Dipco_dev.SpeakerDiarization.development: [development]
+          Mixer6_dev.SpeakerDiarization.development: [development]
+          Notsofar1_dev.SpeakerDiarization.development: [development]
+  
+  # --- training set ---
+  Chime8_train:
+    SpeakerDiarization:
+      train:
+        scope: file
+        train:
+            uri: uris/far_only/train.txt
+            annotation: rttm/expanded/train.rttm
+            annotated: uem/expanded/train.uem
+
+  # --- individual train sets ---
+
+  Notsofar1:
+    SpeakerDiarization:
+      FullTrain_Dev1v:
+        scope: file
+        train:
+          uri: uris/far_only/train_notsofar1.txt
+          annotation: rttm/expanded/train_notsofar1.rttm
+          annotated: uem/expanded/train.uem
+        development:
+          uri: uris/far_only/sub1v/dev_notsofar1.txt
+          annotation: rttm/expanded/dev_notsofar1.rttm
+          annotated: uem/expanded/notsofar1.uem
+      FullTrain_Custom1_Dev1v:
+        scope: file
+        train:
+          uri: uris/far_only/train_notsofar1.txt
+          annotation: rttm/expanded/train_notsofar1.rttm
+          annotated: uem/expanded/train.uem
+        development:
+          uri: uris/far_only/custom1/dev_notsofar1_sub1v.txt
+          annotation: rttm/expanded/dev_notsofar1.rttm
+          annotated: uem/expanded/notsofar1.uem
+
+  # --- individual dev sets ---
+  Chime6_dev:
+    SpeakerDiarization:
+      development:
+        scope: file
+        development:
+            uri: uris/far_only/dev_chime6.txt
+            annotation: rttm/expanded/dev_chime6.rttm
+            annotated: uem/expanded/chime6.uem
+
+  Dipco_dev:
+    SpeakerDiarization:
+      development:
+        scope: file
+        development:
+            uri: uris/far_only/dev_dipco.txt
+            annotation: rttm/expanded/dev_dipco.rttm
+            annotated: uem/expanded/dipco.uem
+  
+  Mixer6_dev:
+    SpeakerDiarization:
+      development:
+        scope: file
+        development:
+            uri: uris/far_only/dev_mixer6.txt
+            annotation: rttm/expanded/dev_mixer6.rttm
+            annotated: uem/expanded/mixer6.uem
+
+  Notsofar1_dev:
+    SpeakerDiarization:
+      development:
+        scope: file
+        development:
+            uri: uris/far_only/dev_notsofar1.txt
+            annotation: rttm/expanded/dev_notsofar1.rttm
+            annotated: uem/expanded/notsofar1.uem

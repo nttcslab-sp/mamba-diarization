@@ -1,0 +1,1029 @@
+SOFTWARE LICENSE AGREEMENT FOR EVALUATION
+
+This SOFTWARE LICENSE AGREEMENT FOR EVALUATION (this "Agreement") is a legal contract between a person who uses or otherwise accesses or installs the Software ("User(s)"), and Nippon Telegraph and Telephone corporation ("NTT").
+READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR OTHERWISE ACCESSING OR USING NTT'S PROPRIETARY SOFTWARE ACCOMPANIED BY THIS AGREEMENT (the "SOFTWARE"). THE SOFTWARE IS COPYRIGHTED AND IT IS LICENSED TO USER UNDER THIS AGREEMENT, NOT SOLD TO USER. BY INSTALLING OR OTHERWISE ACCESSING OR USING THE SOFTWARE, USER ACKNOWLEDGES THAT USER HAS READ THIS AGREEMENT, THAT USER UNDERSTANDS IT, AND THAT USER ACCEPTS AND AGREES TO BE BOUND BY ITS TERMS. IF AT ANY TIME USER IS NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, USER SHOULD　TERMINATE THE INSTALLATION PROCESS, IMMEDIATELY CEASE AND REFRAIN FROM ACCESSING OR USING THE SOFTWARE AND DELETE ANY COPIES USER MAY HAVE. THIS AGREEMENT REPRESENTS THE ENTIRE AGREEMENT BETWEEN USER AND NTT CONCERNING THE SOFTWARE.
+
+ 
+BACKGROUND
+A.	NTT is the owner of all rights, including all patent rights, copyrights and trade secret rights, in and to the Software and related documentation except OSS listed in Exhibit A to this Agreement.
+B.	User wishes to obtain a royalty free license to use the Software to enable User to evaluate, and NTT wishes to grant such a license to User, pursuant and subject to the terms and conditions of this Agreement.
+C.	As a condition to NTT's provision of the Software to User, NTT has required User to execute this Agreement.
+In consideration of these premises, and the mutual promises and conditions in this Agreement, the parties hereby agree as follows:
+1.	Grant of Evaluation License.  	NTT hereby grants to User, and User hereby accepts, under the terms and conditions of this Agreement, a royalty free, nontransferable and nonexclusive license to use the Software internally for the non-commercial purposes of testing, analyzing, and evaluating the methods or mechanisms as shown in the research paper submitted by NTT to a certain academy or technical contest, etc. ("academy"). User may make a reasonable number of backup copies of the Software solely for User's internal use pursuant to the license granted in this Section 1.
+2.　Shipment and Installation.  NTT will ship or deliver the Software by any method that NTT deems appropriate. User shall be solely responsible for proper installation of the Software.
+3.　Term.  This Agreement is effective whichever is earlier (i) upon User's acceptance of the Agreement, or (ii) upon User's installing, accessing, and using the Software, even if User has not expressly accepted this Agreement. Without prejudice to any other rights, NTT may terminate this Agreement without notice to User (i) if User breaches or fails to comply with any of the limitations or other requirements described herein, and (ii) if NTT receives a notice from the academy stating that the research paper would not be published, and in any such case User agrees that NTT may, in addition to any other remedies it may have at law or in equity, remotely disable the Software. User may terminate this Agreement at any time by User's decision to terminate the Agreement to NTT and ceasing use of the Software. Upon any termination or expiration of this Agreement for any reason, User agrees to uninstall the Software and either return to NTT the Software and all copies thereof, or to destroy all such materials and provide written verification of such destruction to NTT.
+4.	Proprietary Rights
+(a)	The Software is the valuable, confidential, and proprietary property of NTT, and NTT shall retain exclusive title to this property both during the term and after the termination of this Agreement.  Without limitation, User acknowledges that all patent rights, copyrights and trade secret rights in the Software except OSS shall remain the exclusive property of NTT at all times. User shall use not less than reasonable care in safeguarding the confidentiality of the Software. 
+(b)		NTT shall not be subject to the obligation of licensing the copyright, patent rights, etc. of author when user hope commercial / noncommercial use of the published / provided software, etc.
+(c)	USER SHALL NOT, IN WHOLE OR IN PART, AT ANY TIME DURING THE TERM OF OR AFTER THE TERMINATION OF THIS AGREEMENT: (i) SELL, ASSIGN, LEASE, DISTRIBUTE, OR OTHERWISE TRANSFER THE SOFTWARE TO ANY THIRD PARTY; (ii) EXCEPT AS OTHERWISE PROVIDED HEREIN, COPY OR REPRODUCE THE SOFTWARE IN ANY MANNER; (iii) DISCLOSE THE SOFTWARE TO ANY THIRD PARTY, EXCEPT TO USER'S EMPLOYEES WHO REQUIRE ACCESS TO THE SOFTWARE FOR THE PURPOSES OF THIS AGREEMENT; (iv) MODIFY, DISASSEMBLE, DECOMPILE, REVERSE ENGINEER OR TRANSLATE THE SOFTWARE; OR (v) ALLOW ANY PERSON OR ENTITY TO COMMIT ANY OF THE ACTIONS DESCRIBED IN (i) THROUGH (iv) ABOVE.
+(d)	User shall take appropriate action, by instruction, agreement, or otherwise, with respect to its employees permitted under this Agreement to have access to the Software to ensure that all of User's obligations under this Section 4 shall be satisfied.  
+5.　	Indemnity.  User shall defend, indemnify and hold harmless NTT, its agents and employees, from any loss, damage, or liability arising in connection with User's improper or unauthorized use of the Software. NTT SHALL HAVE THE SOLE RIGHT TO CONDUCT DEFEND ANY ACTTION RELATING TO THE SOFTWARE.
+6.	Disclaimer.  THE SOFTWARE IS LICENSED TO USER "AS IS," WITHOUT ANY TRAINING, MAINTENANCE, OR SERVICE OBLIGATIONS WHATSOEVER ON THE PART OF NTT. NTT MAKES NO EXPRESS OR IMPLIED WARRANTIES OF ANY TYPE WHATSOEVER, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE AND OF NON-INFRINGEMENT ON COPYRIGHT OR ANY OTHER RIGHT OF THIRD PARTIES.  USER ASSUMES ALL RISKS ASSOCIATED WITH ITS USE OF THE SOFTWARE, INCLUDING WITHOUT LIMITATION RISKS RELATING TO QUALITY, PERFORMANCE, DATA LOSS, AND UTILITY IN A PRODUCTION ENVIRONMENT. 
+7.	Limitation of Liability.  IN NO EVENT SHALL NTT BE LIABLE TO USER OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, OR OTHER ECONOMIC LOSS, ARISING IN CONNECTION WITH USER'S USE OF OR INABILITY TO USE THE SOFTWARE, IN CONNECTION WITH NTT'S PROVISION OF OR FAILURE TO PROVIDE SERVICES PERTAINING TO THE SOFTWARE, OR AS A RESULT OF ANY DEFECT IN THE SOFTWARE.  THIS DISCLAIMER OF LIABILITY SHALL APPLY REGARD¬LESS OF THE FORM OF ACTION THAT MAY BE BROUGHT AGAINST NTT, WHETHER IN CONTRACT OR TORT, INCLUDING WITHOUT LIMITATION ANY ACTION FOR NEGLIGENCE.  USER'S SOLE REMEDY IN THE EVENT OF ANY BREACH OF THIS AGREEMENT BY NTT SHALL BE TERMINATION PURSUANT TO SECTION 3.
+8.	No Assignment or Sublicense.  Neither this Agreement nor any right or license under this Agreement, nor the Software, may be sublicensed, assigned, or otherwise transferred by User without NTT's prior written consent.
+9.　　OSS.  The OSS included in the Software is shown on the "OSS List" in Exhibit A. User shall be subject to the license term of each OSS when using the OSS portion of the Software, and shall be subject to the terms of this document when using the non-OSS portion.
+10.	General
+(a)	If any provision, or part of a provision, of this Agreement is or becomes illegal, unenforceable, or invalidated, by operation of law or otherwise, that provision or part shall to that extent be deemed omitted, and the remainder of this Agreement shall remain in full force and effect.
+(b)	This Agreement is the complete and exclusive statement of the agreement between the parties with respect to the subject matter hereof, and supersedes all written and oral contracts, proposals, and other communications between the parties relating to that subject matter.  
+(c)	Subject to Section 8, this Agreement shall be binding on, and shall inure to the benefit of, the respective successors and assigns of NTT and User.  
+(d)	If either party to this Agreement initiates a legal action or proceeding to enforce or interpret any part of this Agreement, the prevailing party in such action shall be entitled to recover, as an element of the costs of such action and not as damages, its attorneys' fees and other costs associated with such action or proceeding.
+(e)	This Agreement shall be governed by and interpreted under construed in accordance with the laws of Japan, without reference to conflicts of law principles. All disputes arising out of or in connection with this Agreement shall be finally settled by arbitration in Tokyo in accordance with the Commercial Arbitration Rules of the Japan Commercial Arbitration Association.  The arbitration shall be conducted by three (3) arbitrators and in Japanese. The award rendered by the arbitrators shall be final and binding upon the parties. Judgment upon the award may be entered in any court having jurisdiction thereof.
+(f)　　	NTT shall not be liable to the User or to any third party for any delay or failure to perform NTT's obligation set forth under this Agreement due to any cause beyond NTT's reasonable control.
+
+EXHIBIT A
+
+- Software
+
+This package contains the Python implementation for the Mamba-based Segmentation Model for Speaker Diarization. The package includes the following
+    • Code to create a Mamba-based Segmentation Model for Speaker Diarization.
+
+The package contains the following files.
+
+.
+├── databases
+│   ├── aishell
+│   │   ├── database.yml
+│   │   └── lists
+│   │       ├── all.txt
+│   │       ├── custom_dev.txt
+│   │       ├── custom_train.txt
+│   │       ├── test.txt
+│   │       └── train.txt
+│   ├── alimeeting
+│   │   ├── database.yml
+│   │   └── uri
+│   │       ├── eval_far.txt
+│   │       ├── eval_near.txt
+│   │       ├── test_far.txt
+│   │       ├── test_near.txt
+│   │       └── train_far.txt
+│   ├── ami
+│   │   ├── database.yml
+│   │   └── lists
+│   │       ├── custom1
+│   │       │   └── dev.meetings_2h.txt
+│   │       ├── dev.meetings.txt
+│   │       ├── dev.mini.txt
+│   │       ├── dev.speakers.txt
+│   │       ├── test.meetings.txt
+│   │       ├── test.mini.txt
+│   │       ├── test.speakers.txt
+│   │       ├── train.meetings.sdm.txt
+│   │       ├── train.meetings.txt
+│   │       ├── train.mini.txt
+│   │       └── train.speakers.txt
+│   ├── chime8
+│   │   ├── database.yml
+│   │   └── uris
+│   │       └── far_only
+│   │           ├── custom1
+│   │           │   └── dev_notsofar1_sub1v.txt
+│   │           ├── dev_chime6.txt
+│   │           ├── dev_dipco.txt
+│   │           ├── dev_mixer6.txt
+│   │           ├── dev_notsofar1.txt
+│   │           ├── sub1v
+│   │           │   └── dev_notsofar1.txt
+│   │           ├── train_chime6.txt
+│   │           ├── train_dipco.txt
+│   │           ├── train_mixer6.txt
+│   │           ├── train_notsofar1.txt
+│   │           └── train.txt
+│   ├── database_bonus.yml
+│   ├── database.yml
+│   ├── dihard3
+│   │   ├── database.yml
+│   │   └── lists
+│   │       ├── custom1
+│   │       │   ├── train.all.txt
+│   │       │   ├── train.audiobooks.txt
+│   │       │   ├── train.broadcast_interview.txt
+│   │       │   ├── train.clinical.txt
+│   │       │   ├── train.court.txt
+│   │       │   ├── train.cts.txt
+│   │       │   ├── train.maptask.txt
+│   │       │   ├── train.meeting.txt
+│   │       │   ├── train.restaurant.txt
+│   │       │   ├── train.socio_field.txt
+│   │       │   ├── train.socio_lab.txt
+│   │       │   ├── train.webvideo.txt
+│   │       │   ├── validation.all.txt
+│   │       │   ├── validation.audiobooks.txt
+│   │       │   ├── validation.broadcast_interview.txt
+│   │       │   ├── validation.clinical.txt
+│   │       │   ├── validation.court.txt
+│   │       │   ├── validation.cts.txt
+│   │       │   ├── validation.maptask.txt
+│   │       │   ├── validation.meeting.txt
+│   │       │   ├── validation.restaurant.txt
+│   │       │   ├── validation.socio_field.txt
+│   │       │   ├── validation.socio_lab.txt
+│   │       │   └── validation.webvideo.txt
+│   │       └── raw
+│   │           ├── dev
+│   │           ├── dev.all.txt
+│   │           ├── dev.audiobooks.txt
+│   │           ├── dev.broadcast_interview.txt
+│   │           ├── dev.clinical.txt
+│   │           ├── dev.court.txt
+│   │           ├── dev.cts.txt
+│   │           ├── dev.maptask.txt
+│   │           ├── dev.meeting.txt
+│   │           ├── dev.restaurant.txt
+│   │           ├── dev.socio_field.txt
+│   │           ├── dev.socio_lab.txt
+│   │           ├── dev.webvideo.txt
+│   │           ├── eval
+│   │           ├── eval.all.txt
+│   │           ├── eval.audiobooks.txt
+│   │           ├── eval.broadcast_interview.txt
+│   │           ├── eval.clinical.txt
+│   │           ├── eval.court.txt
+│   │           ├── eval.cts.txt
+│   │           ├── eval.maptask.txt
+│   │           ├── eval.meeting.txt
+│   │           ├── eval.restaurant.txt
+│   │           ├── eval.socio_field.txt
+│   │           ├── eval.socio_lab.txt
+│   │           └── eval.webvideo.txt
+│   ├── msdwild
+│   │   ├── database.yml
+│   │   └── lists
+│   │       ├── all.txt
+│   │       ├── all_val.txt
+│   │       ├── custom1_dev.txt
+│   │       ├── custom1_train.txt
+│   │       ├── custom2_dev.txt
+│   │       ├── custom2_train.txt
+│   │       ├── few_train.txt
+│   │       ├── few_val.txt
+│   │       └── many_val.txt
+│   ├── notsofar
+│   │   ├── database.yml
+│   │   └── uris
+│   │       ├── dev1.txt
+│   │       ├── eval.txt
+│   │       └── train.txt
+│   ├── ramc
+│   │   ├── database.yml
+│   │   └── lists
+│   │       ├── dev2h
+│   │       │   └── 2h.txt
+│   │       ├── dev.txt
+│   │       ├── test.txt
+│   │       └── train.txt
+│   └── voxconverse
+│       ├── database.yml
+│       └── uris
+│           ├── custom1
+│           │   ├── dev_train.txt
+│           │   └── dev_val.txt
+│           ├── dev.txt
+│           └── test.txt
+├── LICENCE
+├── pyproject.toml
+├── README.md
+├── results
+│   ├── finetuned
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-AISHELL4.SpeakerDiarization.Custom
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │       │   └── oracle
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │       └── local_thresholds
+│   │   │           └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-AliMeeting.SpeakerDiarization.Far
+│   │   │   ├── hparamtuned_v3
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   └── hparamtuned_v5
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far
+│   │   │       │   └── oracle
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │       └── local_thresholds
+│   │   │           └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-AMI-SDM.SpeakerDiarization.only_words
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │       │   └── oracle
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │       └── local_thresholds
+│   │   │           └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-DIHARD.SpeakerDiarization.Custom1
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │       │   └── oracle
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │       └── local_thresholds
+│   │   │           └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-MSDWILD.SpeakerDiarization.Custom2
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   ├── MSDWILD.SpeakerDiarization.Custom2Few.yaml
+│   │   │       │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │       │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │       ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │       │   └── oracle
+│   │   │       ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │       │   └── oracle
+│   │   │       ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │       └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-Notsofar1.SpeakerDiarization.FullTrain_Custom1_Dev1v
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   │   └── oracle
+│   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   └── hparamtuned_v2_devonly
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │       ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │       │   └── oracle
+│   │   │       └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-RAMC.SpeakerDiarization.Full
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │       ├── RAMC.SpeakerDiarization.Full
+│   │   │       │   └── oracle
+│   │   │       └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   ├── w10-lstm-ml4-wavlmplus-v19.1-VoxConverse.SpeakerDiarization.Custom1
+│   │   │   └── hparamtuned_v3
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │       ├── VoxConverse.SpeakerDiarization.Custom1
+│   │   │       │   └── oracle
+│   │   │       └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-AISHELL4.SpeakerDiarization.Custom
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │       │   └── oracle
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-AliMeeting.SpeakerDiarization.Far
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far
+│   │   │       │   └── oracle
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-AMI-SDM.SpeakerDiarization.only_words
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │       │   └── oracle
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-DIHARD.SpeakerDiarization.Custom1
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   └── untuned
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │       │   └── oracle
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-MSDWILD.SpeakerDiarization.Custom2
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.yaml
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   └── untuned
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── local_thresholds
+│   │   │       │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │       ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │       │   └── oracle
+│   │   │       └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-Notsofar1.SpeakerDiarization.FullTrain_Custom1_Dev1v
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   │   └── oracle
+│   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   └── hparamtuned_v2_devonly
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │       ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │       │   └── oracle
+│   │   │       └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-RAMC.SpeakerDiarization.Full
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full
+│   │   │   │   │   └── oracle
+│   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full
+│   │   │   │   │   └── oracle
+│   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   └── untuned
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── local_thresholds
+│   │   │       │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │       ├── RAMC.SpeakerDiarization.Full
+│   │   │       │   └── oracle
+│   │   │       └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus-v19.1-VoxConverse.SpeakerDiarization.Custom1
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   └── untuned
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── local_thresholds
+│   │   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │       ├── VoxConverse.SpeakerDiarization.Custom1
+│   │   │       │   └── oracle
+│   │   │       └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-AISHELL4.SpeakerDiarization.Custom
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AISHELL4.SpeakerDiarization.Custom.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom
+│   │   │       │   └── oracle
+│   │   │       ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-AliMeeting.SpeakerDiarization.Far
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── hparamtuned_v3
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AliMeeting.SpeakerDiarization.Far.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far
+│   │   │       │   └── oracle
+│   │   │       ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-AMI-SDM.SpeakerDiarization.only_words
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── AMI-SDM.SpeakerDiarization.only_words.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   └── untuned
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words
+│   │   │       │   └── oracle
+│   │   │       ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-DIHARD.SpeakerDiarization.Custom1
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── hparamtuned_v3
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── DIHARD.SpeakerDiarization.Custom1.yaml
+│   │   │   │   └── local_thresholds
+│   │   │   │       └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   └── untuned
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │       │   └── oracle
+│   │   │       ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │       ├── eval_rttms.zip
+│   │   │       └── local_thresholds
+│   │   │           └── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-MSDWILD.SpeakerDiarization.Custom2
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.yaml
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │   │   │   └── oracle
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── hparamtuned_v3
+│   │   │   │   ├── 250ms_pause
+│   │   │   │   │   ├── local_thresholds
+│   │   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   │   └── oracle
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │   │   │   └── oracle
+│   │   │   │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   └── untuned
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── local_thresholds
+│   │   │       │   └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │       ├── MSDWILD.SpeakerDiarization.Custom2
+│   │   │       │   └── oracle
+│   │   │       └── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-Notsofar1.SpeakerDiarization.FullTrain_Custom1_Dev1v
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   │   └── oracle
+│   │   │   │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   └── hparamtuned_v2_devonly
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── hparams
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.yaml
+│   │   │       ├── local_thresholds
+│   │   │       │   └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │       ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │       │   └── oracle
+│   │   │       └── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   ├── w30-mamba-ml5-wavlmplus-v19.1-RAMC.SpeakerDiarization.Full
+│   │   │   ├── hparamtuned
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full
+│   │   │   │   │   └── oracle
+│   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── hparamtuned_v2
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full
+│   │   │   │   │   └── oracle
+│   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── hparamtuned_v5
+│   │   │   │   ├── eval_rttms.zip
+│   │   │   │   ├── hparams
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.yaml
+│   │   │   │   ├── local_thresholds
+│   │   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full
+│   │   │   │   │   └── oracle
+│   │   │   │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   └── untuned
+│   │   │       ├── eval_rttms.zip
+│   │   │       ├── local_thresholds
+│   │   │       │   └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │       ├── RAMC.SpeakerDiarization.Full
+│   │   │       │   └── oracle
+│   │   │       └── RAMC.SpeakerDiarization.Full.test.csv
+│   │   └── w30-mamba-ml5-wavlmplus-v19.1-VoxConverse.SpeakerDiarization.Custom1
+│   │       ├── hparamtuned
+│   │       │   ├── eval_rttms.zip
+│   │       │   ├── hparams
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │       │   ├── local_thresholds
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │       │   │   └── oracle
+│   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       ├── hparamtuned_v2
+│   │       │   ├── eval_rttms.zip
+│   │       │   ├── hparams
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │       │   ├── local_thresholds
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │       │   │   └── oracle
+│   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       ├── hparamtuned_v3
+│   │       │   ├── 250ms_pause
+│   │       │   │   ├── local_thresholds
+│   │       │   │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │       │   │   │   └── oracle
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── eval_rttms.zip
+│   │       │   ├── hparams
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │       │   ├── local_thresholds
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │       │   │   └── oracle
+│   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       ├── hparamtuned_v5
+│   │       │   ├── eval_rttms.zip
+│   │       │   ├── hparams
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.yaml
+│   │       │   ├── local_thresholds
+│   │       │   │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── VoxConverse.SpeakerDiarization.Custom1
+│   │       │   │   └── oracle
+│   │       │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       └── untuned
+│   │           ├── eval_rttms.zip
+│   │           ├── local_thresholds
+│   │           │   └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │           ├── VoxConverse.SpeakerDiarization.Custom1
+│   │           │   └── oracle
+│   │           └── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   ├── pretrained
+│   │   ├── w10-lstm-ml4-wavlmplus
+│   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   └── oracle
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── eval_rttms.zip
+│   │   │   ├── local_thresholds
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │   │   └── oracle
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   └── oracle
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── X.SpeakerDiarization.DataMamba8
+│   │   │   │   └── oracle
+│   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   ├── w10-mamba-ml4-wavlmplus
+│   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   └── oracle
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── eval_rttms.zip
+│   │   │   ├── local_thresholds
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │   │   └── oracle
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   └── oracle
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── X.SpeakerDiarization.DataMamba8
+│   │   │   │   └── oracle
+│   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   ├── w10-transformer-ml5
+│   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.audiobooks.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.broadcast_interview.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.clinical.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.court.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.cts.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1
+│   │   │   │   └── oracle
+│   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.maptask.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.meeting.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.restaurant.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.socio_field.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.socio_lab.test.csv
+│   │   │   ├── DIHARD.SpeakerDiarization.webvideo.test.csv
+│   │   │   ├── local_thresholds
+│   │   │   │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │   │   │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │   │   │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.audiobooks.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.broadcast_interview.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.clinical.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.court.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.cts.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.maptask.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.meeting.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.restaurant.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.socio_field.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.socio_lab.test.csv
+│   │   │   │   ├── DIHARD.SpeakerDiarization.webvideo.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │   │   │   └── oracle
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │   │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │   │   │   └── oracle
+│   │   │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │   │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │   │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │   │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │   │   ├── X.SpeakerDiarization.DataMamba8
+│   │   │   │   └── oracle
+│   │   │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │   └── w30-mamba-ml5-wavlmplus
+│   │       ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │       ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │       ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │       ├── DIHARD.SpeakerDiarization.Custom1
+│   │       │   └── oracle
+│   │       ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │       ├── eval_rttms.zip
+│   │       ├── local_thresholds
+│   │       │   ├── AISHELL4.SpeakerDiarization.Custom.test.csv
+│   │       │   ├── AliMeeting.SpeakerDiarization.Far.test.csv
+│   │       │   ├── AMI-SDM.SpeakerDiarization.only_words.test.csv
+│   │       │   ├── DIHARD.SpeakerDiarization.Custom1.test.csv
+│   │       │   ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │       │   ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │       │   ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │       │   ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │       │   ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │       │   ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       │   └── X.SpeakerDiarization.DataMamba8.test.csv
+│   │       ├── MSDWILD.SpeakerDiarization.Custom2Few
+│   │       │   └── oracle
+│   │       ├── MSDWILD.SpeakerDiarization.Custom2Few.test.csv
+│   │       ├── MSDWILD.SpeakerDiarization.Custom2.test.csv
+│   │       ├── Notsofar1_eval.SpeakerDiarization.EvalOnly
+│   │       │   └── oracle
+│   │       ├── Notsofar1_eval.SpeakerDiarization.EvalOnly.test.csv
+│   │       ├── RAMC.SpeakerDiarization.Full.test.csv
+│   │       ├── Simu8_test.SpeakerDiarization.Full.test.csv
+│   │       ├── VoxConverse.SpeakerDiarization.Custom1.test.csv
+│   │       ├── X.SpeakerDiarization.DataMamba8
+│   │       │   └── oracle
+│   │       └── X.SpeakerDiarization.DataMamba8.test.csv
+│   └── zip_all.sh
+├── src
+│   └── plaqntt
+│       ├── cli
+│       │   ├── compute_der2.py
+│       │   ├── infer.py
+│       │   └── summarize2.py
+│       ├── __init__.py
+│       ├── modules
+│       │   ├── __init__.py
+│       │   ├── mamba.py
+│       │   ├── __pycache__
+│       │   │   ├── __init__.cpython-312.pyc
+│       │   │   └── resblock.cpython-312.pyc
+│       │   ├── resblock.py
+│       │   └── transformer_eendvc.py
+│       ├── pyannote_audio
+│       │   ├── core
+│       │   │   └── inference2.py
+│       │   ├── __init__.py
+│       │   ├── pipeline
+│       │   │   └── speaker_diarization.py
+│       │   ├── __pycache__
+│       │   │   ├── __init__.cpython-312.pyc
+│       │   │   └── sdresblocks.cpython-312.pyc
+│       │   ├── sdresblocks.py
+│       │   ├── sdtransformer.py
+│       │   └── utils
+│       │       └── permutation.py
+│       ├── __pycache__
+│       │   └── __init__.cpython-312.pyc
+│       ├── torch
+│       │   ├── __init__.py
+│       │   └── lr_schedulers
+│       │       ├── decreasing_cawr.py
+│       │       ├── __init__.py
+│       │       └── reduce_cyclic.py
+│       └── utils
+│           ├── argparse_types.py
+│           ├── __init__.py
+│           ├── paths.py
+│           ├── plotly_themes.py
+│           └── pyannote_database.py
+└── tutorials
+    ├── 0_setup_environment.ipynb
+    ├── 1_training_from_scratch.ipynb
+    ├── architectures
+    │   └── blocks
+    │       ├── mamba_funnel1.yaml
+    │       ├── mamba_plaqntt_unidirectional.yaml
+    │       └── mamba_plaqntt.yaml
+    └── reference_environment
+        ├── micromamba.txt
+        ├── pip_freeze.txt
+        └── pip_list.txt
+
+449 directories, 531 files
+
+- OSS List
+
+Not Applicable
+

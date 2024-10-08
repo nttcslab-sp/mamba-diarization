@@ -1,0 +1,85 @@
+Databases:
+  MSDWILD: wav/{uri}.wav
+
+Protocols:
+  MSDWILD:
+    SpeakerDiarization:
+      # Only use "few" data (low speaker count)
+      Custom1Few:
+        scope: file
+        train:
+          uri: lists/custom1_train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        development:
+          uri: lists/custom1_dev.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        test:
+          uri: lists/few_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+      # 60h train / 6h val split
+      Custom1:
+        scope: file
+        train:
+          uri: lists/custom1_train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        development:
+          uri: lists/custom1_dev.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        test:
+          uri: lists/all_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+      # 64h train / 2h val split
+      Custom2:
+        scope: file
+        train:
+          uri: lists/custom2_train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        development:
+          uri: lists/custom2_dev.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        test:
+          uri: lists/all_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+      Custom2Few:
+        scope: file
+        train:
+          uri: lists/custom2_train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        development:
+          uri: lists/custom2_dev.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        test:
+          uri: lists/few_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+
+
+      # uses the "many" subset as test
+      OriginalMany:
+        scope: file
+        test:
+          uri: lists/many_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+      # original subsets, lacks a development one.
+      OriginalFew:
+        scope: file
+        train:
+          uri: lists/few_train.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem
+        test:
+          uri: lists/few_val.txt
+          annotation: rttm/{uri}.rttm
+          annotated: uems/{uri}.uem

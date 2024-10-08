@@ -1,0 +1,23 @@
+Databases:
+  Notsofar1_eval:
+  - audio/eval/{uri}_U01.CH1.wav
+  - audio/train/{uri}_U01.CH1.wav
+  - audio/dev/{uri}_U01.CH1.wav
+
+
+Protocols:
+  Notsofar1_eval:
+    SpeakerDiarization:
+      EvalOnly:
+        train:
+          uri: uris/train.txt
+          annotation: rttm/train.rttm
+          annotated: uem/train/all.uem
+        development:
+          uri: uris/dev1.txt
+          annotation: rttm/dev1.rttm
+          annotated: uem/train/all.uem
+        test:
+          uri: uris/eval.txt
+          annotation: rttm/eval.rttm
+          annotated: uem/eval/all.uem

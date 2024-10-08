@@ -1,0 +1,199 @@
+Databases:
+  DIHARD: 
+    - data/dev/flac/{uri}.flac
+    - data/eval/flac/{uri}.flac
+
+Protocols:
+  DIHARD:
+    SpeakerDiarization:
+      Raw:
+        scope: file
+        train:
+          uri: lists/raw/dev.all.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.all.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+  
+      Custom1:
+        scope: file
+        train:
+          uri: lists/custom1/train.all.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.all.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.all.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+
+      audiobooks:
+        scope: file
+        train:
+          uri: lists/custom1/train.audiobooks.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.audiobooks.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.audiobooks.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+
+      broadcast_interview:
+        scope: file
+        train:
+          uri: lists/custom1/train.broadcast_interview.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.broadcast_interview.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.broadcast_interview.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      clinical:
+        scope: file
+        train:
+          uri: lists/custom1/train.clinical.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.clinical.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.clinical.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      court:
+        scope: file
+        train:
+          uri: lists/custom1/train.court.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.court.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.court.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+
+      cts:
+        scope: file
+        train:
+          uri: lists/custom1/train.cts.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.cts.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.cts.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      maptask:
+        scope: file
+        train:
+          uri: lists/custom1/train.maptask.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.maptask.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.maptask.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      meeting:
+        scope: file
+        train:
+          uri: lists/custom1/train.meeting.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.meeting.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.meeting.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      restaurant:
+        scope: file
+        train:
+          uri: lists/custom1/train.restaurant.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.restaurant.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.restaurant.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      socio_field:
+        scope: file
+        train:
+          uri: lists/custom1/train.socio_field.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.socio_field.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.socio_field.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      socio_lab:
+        scope: file
+        train:
+          uri: lists/custom1/train.socio_lab.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.socio_lab.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.socio_lab.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      
+      webvideo:
+        scope: file
+        train:
+          uri: lists/custom1/train.webvideo.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        development:
+          uri: lists/custom1/validation.webvideo.txt
+          annotation: data/dev/rttm/{uri}.rttm
+          annotated: data/dev/uem/{uri}.uem
+        test:
+          uri: lists/raw/eval.webvideo.txt
+          annotation: data/eval/rttm/{uri}.rttm
+          annotated: data/eval/uem/{uri}.uem
+      

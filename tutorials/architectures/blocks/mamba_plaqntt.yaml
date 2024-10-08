@@ -1,0 +1,43 @@
+"0@mamba":
+  res:
+    inproj: c256
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"1@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"2@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"3@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"4@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"5@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
+"6@mamba":
+  res:
+    n_layer: 1
+    bidirectional_merging: add
+  block:
+    d_state: 64
